@@ -4,8 +4,8 @@
 
 ## Summary
 
-### Vue
-    - [Simple todo app](vue/simple-todo-app/)
+    ### Vue
+        - [Simple todo app](vue/simple-todo-app/)
 
 Keep calm and code!
 <br>
