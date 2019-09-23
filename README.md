@@ -5,8 +5,7 @@
 ## Summary
 
 ### Vue
-    - [Simple todo app](vue/simple-todo-app/index.html)
-    - [Simple todo app](vue/simple-todo-app/index.html)
+    - [Simple todo app](../vue/simple-todo-app/index.html)
 
 Keep calm and code!
 <br>
